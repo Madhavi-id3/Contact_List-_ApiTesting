@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-30T18:42:28 IST" name="Suite" finished-at="2026-09-30T18:42:43 IST" duration-ms="15113">
+    <groups>
+    </groups>
+    <test started-at="2026-09-30T18:42:28 IST" name="Test" finished-at="2026-09-30T18:42:43 IST" duration-ms="15113">
+      <class name="tests.ContactListApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:28 IST" name="setup" finished-at="2026-09-30T18:42:28 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addUser()[pri:1, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:28 IST" name="addUser" finished-at="2026-09-30T18:42:31 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method signature="getUserProfile()[pri:2, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:32 IST" name="getUserProfile" finished-at="2026-09-30T18:42:33 IST" duration-ms="1224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserProfile -->
+        <test-method signature="updateUser()[pri:3, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:33 IST" name="updateUser" finished-at="2026-09-30T18:42:34 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="loginUser()[pri:4, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:34 IST" name="loginUser" finished-at="2026-09-30T18:42:35 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method signature="addContact()[pri:5, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:35 IST" name="addContact" finished-at="2026-09-30T18:42:37 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method signature="getContactList()[pri:6, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:37 IST" name="getContactList" finished-at="2026-09-30T18:42:38 IST" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactList -->
+        <test-method signature="getContact()[pri:7, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:38 IST" name="getContact" finished-at="2026-09-30T18:42:39 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContact -->
+        <test-method signature="updateContactFull()[pri:8, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:39 IST" name="updateContactFull" finished-at="2026-09-30T18:42:41 IST" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContactFull -->
+        <test-method signature="updateContactPartial()[pri:9, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:41 IST" name="updateContactPartial" finished-at="2026-09-30T18:42:42 IST" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContactPartial -->
+        <test-method signature="logoutUser()[pri:10, instance:tests.ContactListApiTest@331acdad]" started-at="2026-09-30T18:42:42 IST" name="logoutUser" finished-at="2026-09-30T18:42:43 IST" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+      </class> <!-- tests.ContactListApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
